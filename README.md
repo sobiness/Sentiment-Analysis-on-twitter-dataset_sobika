@@ -7,7 +7,7 @@ This project focuses on performing sentiment analysis on the Twitter dataset usi
 ## Dataset
 
 The Twitter Sentiment Dataset is used for this project. It contains a collection of tweets along with sentiment scores. The dataset is preprocessed to remove stopwords, punctuation, URLs, and repeating characters. It is also subjected to lemmatization and stemming for better analysis.
-Link : https://drive.google.com/file/d/1sWydQajja-EXNse0jq2SUn_FMk8xS95l/edit
+
 
 ## Models
 
